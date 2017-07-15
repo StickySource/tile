@@ -1,0 +1,3 @@
+[submodule "sticky-tile-release"]
+	path = sticky-tile-release
+	url = git@github.com:StickySource/sticky-tile-release.git
