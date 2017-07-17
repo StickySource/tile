@@ -1,3 +1,6 @@
 [submodule "sticky-tile-release"]
 	path = sticky-tile-release
 	url = git@github.com:StickySource/sticky-tile-release.git
+[submodule "sticky-tile-upload-nexus"]
+	path = sticky-tile-upload-nexus
+	url = git@github.com:StickySource/sticky-tile-upload-nexus.git
