@@ -4,3 +4,6 @@
 [submodule "sticky-tile-upload-nexus"]
 	path = sticky-tile-upload-nexus
 	url = git@github.com:StickySource/sticky-tile-upload-nexus.git
+[submodule "sticky-tile-parent-jar"]
+	path = sticky-tile-parent-jar
+	url = git@github.com:StickySource/sticky-tile-parent-jar.git
