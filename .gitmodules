@@ -13,3 +13,9 @@
 [submodule "sticky-tile-testing"]
 	path = sticky-tile-testing
 	url = git@github.com:StickySource/sticky-tile-testing.git
+[submodule "sticky-tile-parent-api"]
+	path = sticky-tile-parent-api
+	url = git@github.com:StickySource/sticky-tile-parent-api.git
+[submodule "sticky-tile-apicheck"]
+	path = sticky-tile-apicheck
+	url = git@github.com:StickySource/sticky-tile-apicheck.git
