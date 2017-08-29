@@ -19,3 +19,9 @@
 [submodule "sticky-tile-apicheck"]
 	path = sticky-tile-apicheck
 	url = git@github.com:StickySource/sticky-tile-apicheck.git
+[submodule "sticky-tile-contributors"]
+	path = sticky-tile-contributors
+	url = git@github.com:StickySource/sticky-tile-contributors.git
+[submodule "sticky-tile-manifest"]
+	path = sticky-tile-manifest
+	url = git@github.com:StickySource/sticky-tile-manifest.git
